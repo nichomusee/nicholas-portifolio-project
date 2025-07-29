@@ -815,3 +815,23 @@ svg {
   fill: white;
   transition: fill 0.3s ease;
 }
+
+/* ... existing CSS ... */
+
+.no-scroll {
+  overflow-y: hidden;
+  height: 100%;
+  margin: 0;
+}
+
+.display-none {
+  display: none;
+}
+
+.position-fixed {
+  position: fixed;
+}
+
+
+/* ... existing CSS ... */
+
